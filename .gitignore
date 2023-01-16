@@ -1,0 +1,10 @@
+__pycache__/
+src/__pycache__/
+venv/
+.vscode/
+certs/
+.scannerwork/
+Dockerfile_old
+deploy_credentials/
+src/certs/
+src/.scannerwork/
